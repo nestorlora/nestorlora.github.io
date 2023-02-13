@@ -5,7 +5,10 @@
       {%- endif -%}
       <div class="card-body">
         <h5 id="{{ log_id }}-name" class="card-title">
-            {{ log_name }}
+          {%- if log_acronym -%}
+            <span class="badge badge-primary">{{ log_acronym }}</span>&nbsp;
+          {%- endif -%}
+          {{ log_name }}
         </h5>
         <p id="{{ log_id }}-desc" class="card-text">{{ log_desc }}</p>
         <p id="{{ log_id }}-tags" class="card-text">
