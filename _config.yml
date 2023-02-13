@@ -57,6 +57,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  logbook:
+    output: true
+    permalink: /log/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
@@ -88,6 +91,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "logbook"
     values:
       layout: "page"
   - scope:                                              # For Documentation Only
