@@ -1,35 +1,55 @@
-- name: AAA
+- name: 111 Lorem
+
+- name: 222 Lorem
+  style: fill
+
+- name: 333 Lorem
+  style: outline
+
+- name: AAA Lorem
   style: fill
   color: primary
 
-- name: AAA
+- name: BBB Lorem
   style: outline
-  color: primary
+  color: secondary
 
-- name: BBB
+- name: BBB Lorem
   style: fill
   color: secondary
 
-- name: CCC
+- name: CCC Lorem
+  style: outline
+  color: info
+
+- name: CCC Lorem
   style: fill
   color: info
 
-- name: DDD
+- name: DDD Lorem
+  style: outline
+  color: success
+
+- name: DDD Lorem
   style: fill
   color: success
 
-- name: EEE
+- name: EEE Lorem
+  style: outline
+  color: warning
+
+- name: EEE Lorem
   style: fill
   color: warning
 
-- name: FFF
+- name: FFF Lorem
+  style: outline
+  color: danger
+
+- name: FFF Lorem
   style: fill
   color: danger
 
-- name: GGG
+- name: GGG Lorem
   style: fill
   color: dark
-
-- name: HHH
-  style: fill
-  color: light
