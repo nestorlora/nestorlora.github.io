@@ -16,5 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <div class="row">
+{% include about/tag-skills.liquid title="Tag Skills" source=site.data.tag-skills %}
+</div>
+
+<div class="row">
 {% include about/timeline.html %}
 </div>

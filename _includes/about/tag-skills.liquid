@@ -1,0 +1,15 @@
+<div class="col-lg">
+
+  <h2 class="mb-3">{{ include.title }}</h2>
+  <p>
+    {% for skill in include.source %}
+      {% if skill.style == "fill" %}
+        <span class="badge badge-pill badge-{{ skill.color | default: 'primary' }}" style="font-size:1rem;">{{ skill.name }}</span>
+      {% elsif skill.style == "outline" %}
+        <span class="badge badge-pill text-{{ skill.color | default: 'primary' }} border border-{{ skill.color | default: 'primary' }}" style="font-size:1rem;">{{ skill.name }}</span>
+      {% else %}
+        <span class="badge badge-pill" style="font-size:1rem;">{{ skill.name }}</span>
+      {% endif %}
+    {% endfor %}
+  </p>
+</div>
