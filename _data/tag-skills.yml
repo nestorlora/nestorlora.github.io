@@ -1,0 +1,35 @@
+- name: AAA
+  style: fill
+  color: primary
+
+- name: AAA
+  style: outline
+  color: primary
+
+- name: BBB
+  style: fill
+  color: secondary
+
+- name: CCC
+  style: fill
+  color: info
+
+- name: DDD
+  style: fill
+  color: success
+
+- name: EEE
+  style: fill
+  color: warning
+
+- name: FFF
+  style: fill
+  color: danger
+
+- name: GGG
+  style: fill
+  color: dark
+
+- name: HHH
+  style: fill
+  color: light

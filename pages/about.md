@@ -19,5 +19,9 @@ I have been able to complete my learning with self-study and occasional freelanc
 # My timeline
 
 <div class="row">
+{% include about/tag-skills.liquid title="Tag Skills" source=site.data.tag-skills %}
+</div>
+
+<div class="row">
 {% include about/timeline.html %}
 </div>
