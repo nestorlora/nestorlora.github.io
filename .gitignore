@@ -24,3 +24,6 @@ Gemfile.lock
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Liquid Template Language
+.liquidrc
