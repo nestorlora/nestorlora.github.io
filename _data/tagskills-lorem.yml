@@ -1,55 +1,55 @@
-- name: 111 Lorem
+- name: Lorem Ipsum
 
-- name: 222 Lorem
+- name: Lorem Ipsum
   style: fill
 
-- name: 333 Lorem
+- name: Lorem Ipsum
   style: outline
 
-- name: AAA Lorem
+- name: Lorem Ipsum
   style: fill
   color: primary
 
-- name: BBB Lorem
+- name: Lorem Ipsum
   style: outline
   color: secondary
 
-- name: BBB Lorem
+- name: Lorem Ipsum
   style: fill
   color: secondary
 
-- name: CCC Lorem
+- name: Lorem Ipsum
   style: outline
   color: info
 
-- name: CCC Lorem
+- name: Lorem Ipsum
   style: fill
   color: info
 
-- name: DDD Lorem
+- name: Lorem Ipsum
   style: outline
   color: success
 
-- name: DDD Lorem
+- name: Lorem Ipsum
   style: fill
   color: success
 
-- name: EEE Lorem
+- name: Lorem Ipsum
   style: outline
   color: warning
 
-- name: EEE Lorem
+- name: Lorem Ipsum
   style: fill
   color: warning
 
-- name: FFF Lorem
+- name: Lorem Ipsum
   style: outline
   color: danger
 
-- name: FFF Lorem
+- name: Lorem Ipsum
   style: fill
   color: danger
 
-- name: GGG Lorem
+- name: Lorem Ipsum
   style: fill
   color: dark

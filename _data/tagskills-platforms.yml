@@ -1,0 +1,57 @@
+- name: Web (HTML, CSS, Javascript, AJAX)
+  style: fill
+  color: info
+
+- name: C++
+  style: fill
+  color: info
+
+- name: Node.js
+  style: fill
+  color: info
+
+- name: Python
+  style: outline
+  color: info
+
+- name: Java
+  style: fill
+  color: info
+
+- name: PHP
+  style: outline
+  color: info
+
+- name: Android SDK
+  style: outline
+  color: info
+
+- name: SQL
+  style: outline
+  color: info
+
+- name: POSIX
+  style: fill
+
+- name: Git
+  style: fill
+  color: success
+
+- name: Docker
+  style: fill
+  color: primary
+
+- name: Linux
+  style: outline
+
+- name: Windows Server
+  style: outline
+
+- name: Proxmox VE
+  style: outline
+
+- name: JUnit
+  style: fill
+
+- name: Openstack
+  style: fill
