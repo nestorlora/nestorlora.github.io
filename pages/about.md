@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:, Telematics Engineering student about to finish the Degree.
+Hi I am **{{ site.author.name }}** :wave:, a Telematics Engineer living in Málaga (Spain).
 
 I have been able to complete my learning with self-study and occasional freelance work. I have also participated in student representation and volunteering, which have given me soft skills and great versatility.
 
