@@ -1,0 +1,22 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+    <a href="{{ log_url }}" class="project card text-themed">
+      {%- if log_img -%}
+      <img id="{{ log_id }}-img" class="card-img-top" src="{{ log_img }}" alt="Logo {{ log_id }}" />
+      {%- endif -%}
+      <div class="card-body">
+        <h5 id="{{ log_id }}-name" class="card-title">
+          {%- if log_acronym -%}
+            <span class="badge badge-primary">{{ log_acronym }}</span>&nbsp;
+          {%- endif -%}
+          {{ log_name }}
+        </h5>
+        <p id="{{ log_id }}-desc" class="card-text">{{ log_desc }}</p>
+        <p id="{{ log_id }}-tags" class="card-text">
+          {%- for tag in log_tags -%}
+          <span class="badge badge-pill text-primary border border-primary ml-1">{{ tag }}</span>
+          {%- endfor -%}
+        </p>
+      </div>
+    </a>
+  </div>
+  
