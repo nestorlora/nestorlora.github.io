@@ -1,0 +1,23 @@
+<div class="card-columns m-3 mt-5">
+  
+  <!-- Local Projects -->
+  {% for log in site.logbook %}
+    {%- assign log_type = "local" -%}
+    {%- assign log_id = log.name | slugify -%}
+    {%- assign log_img = log.image -%}
+    {%- assign log_name = log.name -%}
+    {%- assign log_desc = log.description -%}
+    {%- assign log_tags = log.tags -%}
+    {%- assign log_acronym = log.acronym -%}
+
+    {%- if log.external_url -%}
+      {%- assign log_url = log.external_url -%}
+    {%- else -%}
+      {%- assign log_url = log.url | relative_url -%}
+    {%- endif -%}
+
+    {% include logbook/log-card.liquid %}
+
+  {% endfor %}
+
+</div>

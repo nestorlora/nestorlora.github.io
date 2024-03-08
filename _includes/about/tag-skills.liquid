@@ -1,0 +1,16 @@
+<div class="col-lg">
+
+  <h3 class="mb-3">{{ include.title }}</h3>
+  <p style="line-height: 2rem;">
+    {% for skill in include.source %}
+      <span {% case skill.style %}
+        {% when "fill" %}
+          class="badge badge-pill badge-{{ skill.color | default: 'light' }}"
+        {% when "outline", "border" %}
+          class="badge badge-pill text-{{ skill.color | default: 'primary' }} border border-{{ skill.color | default: 'primary' }}"
+        {% else %}
+          class="badge badge-pill text-{{ skill.color | default: 'dark' }} border border-{{ skill.color | default: 'dark' }}"
+      {% endcase %} style="font-size: 1rem;">{{ skill.name }}</span> 
+    {% endfor %}
+  </p>
+</div>
