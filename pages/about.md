@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:, a Telematics Engineer living in Málaga (Spain).
 
-I have been able to complete my learning with self-study and occasional freelance work. I have also participated in student representation and volunteering, which have given me soft skills and great versatility.
+I love public transportation and the technologies behind the Internet. I'm constantly learning more about them and exploring how they can be leveraged to make an even greater positive impact on society.
 
 <!--
 <div class="row">
@@ -18,8 +18,11 @@ I have been able to complete my learning with self-study and occasional freelanc
 </div>
 -->
 
+### Soft skills
+I have been able to complete my learning with self-study and occasional freelance work. I have also participated in student representation and volunteering, which have given me soft skills and great versatility.
+
 <div class="row">
-{% include about/tag-skills.liquid title="Soft skills" source=site.data.tagskills-soft %}
+{% include about/tag-skills.liquid source=site.data.tagskills-soft %}
 </div>
 
 <div class="row">
