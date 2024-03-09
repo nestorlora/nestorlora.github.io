@@ -33,5 +33,5 @@ I have been able to complete my learning with self-study and occasional freelanc
 # My timeline
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.liquid %}
 </div>
