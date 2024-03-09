@@ -1,7 +1,8 @@
 <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <div class="col">
     <a href="{{ log_url }}" class="project card text-themed">
       {%- if log_img -%}
-      <img id="{{ log_id }}-img" class="card-img-top" src="{{ log_img }}" alt="Logo {{ log_id }}" />
+      <img id="{{ log_id }}-img" class="card-img-top" src="{{ log_img }}" alt="Logo {{ log_id }}" style="max-height: 140px; object-fit: contain;" />
       {%- endif -%}
       <div class="card-body">
         <h5 id="{{ log_id }}-name" class="card-title">
@@ -19,4 +20,4 @@
       </div>
     </a>
   </div>
-  
+</div>

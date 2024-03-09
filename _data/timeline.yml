@@ -1,4 +1,6 @@
-- title: Network & Systems Administrator, CPM Gonzalo Martín Tenllado <small class="text-muted">Independent professional, part time</small>
+- title: Network & Systems Administrator
+  org: CPM Gonzalo Martín Tenllado
+  relation: Independent professional, part time
   from: June 2017
   to: present
   description: >
@@ -10,7 +12,9 @@
     <li>Documentation and procedures management.</li>
     </ul>
 
-- title: Student, Málaga University - Bachelor Degree in Telematics Engineering
+- title: Bachelor Degree in Telematics Engineering
+  org: Málaga University
+  relation: Student
   from: September 2014
   to: November 2023
   description: >
@@ -30,3 +34,9 @@
     <br>
     During my studies I participated in numerous volunteer activities and student representation.
     I also developed different projects on my own and in a team. You can find more detailed information in the corresponding site sections.
+
+- title: Professional Music Education, Viola specialization
+  org: CPM Gonzalo Martín Tenllado
+  relation: Student
+  from: September 2009
+  to: May 2017
