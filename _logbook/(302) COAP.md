@@ -2,6 +2,6 @@
 name: Comisión de Ordenación Académica Profesorado
 acronym: COAP
 tags: [COA, UMA]
-image: 
+image: /images/UMA.png
 description: Universidad de Málaga
 ---
