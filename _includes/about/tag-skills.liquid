@@ -1,6 +1,7 @@
 <div class="col-lg">
-
+  {% if include.title %}
   <h3 class="mb-3">{{ include.title }}</h3>
+  {% endif %}
   <p style="line-height: 2rem;">
     {% for skill in include.source %}
       <span {% case skill.style %}
