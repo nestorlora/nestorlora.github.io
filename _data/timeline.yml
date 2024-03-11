@@ -41,10 +41,10 @@
   from: September 2014
   to: November 2023
   description: >
-    The objective of the degree is technological training and preparation for professional
-    practice in the development and applications of Information and Communication Technologies (ICT). 
-    <br>
-    Theese were the main contents of the agenda:
+    The degree aims to train professionals in the field of ICT engineering.
+    It's focused specially in the middle ground between Telecommunications and IT.
+    <details>
+    <summary><u>Main curriculum topics</u></summary>
     <ol>
     <li>Telecommunication networks and services: architectures, technologies, design, administration and management</li>
     <li>Software engineering and programming: applications, services, microcontrollers and real-time systems</li>
@@ -54,6 +54,7 @@
     <li>Analog and digital electronics: Technologies and design</li>
     <li>Project management and telecommunications regulations</li>
     </ol>
+    </details>
     <br>
     During my studies I participated in numerous volunteer activities and student representation.
     I also developed different projects on my own and in a team. You can find more detailed information in the corresponding site sections.
