@@ -1,7 +1,7 @@
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 m-3 mt-5">
   
   <!-- Local Projects -->
-  {% for log in site.logbook %}
+  {% for log in site.logbook reversed %}
     {%- assign log_type = "local" -%}
     {%- assign log_id = log.name | slugify -%}
     {%- assign log_img = log.image -%}
