@@ -19,7 +19,7 @@
 
 - name: VoIP
   style: outline
-  color: secondary
+  color: dark
 
 - name: VPN / IPSec
   style: fill
@@ -41,8 +41,7 @@
   color: dark
 
 - name: WebDAV
-  style: outline
-  color: dark
+  style: fill
 
 - name: HTTP
   style: fill
@@ -59,4 +58,8 @@
   style: fill
 
 - name: Bluetooth
+  style: outline
+
+- name: Custom TCP/IP protocols
   style: fill
+  color: info

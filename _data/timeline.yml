@@ -1,10 +1,33 @@
+- title: ICT Engineering internship
+  org: Empresa Malagueña de Transportes, SAM
+  from: June 2023
+  to: January 2024
+  description: >
+    I've mainly worked in full-stack development and integration. I also collaborated on R&D&I, engineering, sysadmin and UX projects within the IT department.
+    <details>
+    <summary><u>More detailed tasks</u></summary>
+    <ul>
+    <li>Automation of wireless networks management</li>
+    <li>Integration of bluetooth technologies and license plate recognition in access control systems.</li>
+    <li>Design and development of PWA and responsive web apps (Oracle SQL, MongoDB, PHP, HTML5, JS, CSS, Bootstrap, jQuery).</li>
+    <li><i>Common Alerting Protocol</i> integration in mobile notification system for weather alerts.</li>
+    <li>Corporate CSS theme design for web apps.</li>
+    <li>Collaboration in the deployment, installation, and configuration of corporate WLAN networks.</li>
+    <li>Design and implementation in Python of a stateful proxy between REST services and proprietary UDP protocol.</li>
+    <li>Prototyping a dynamic user information system using e-ink displays.</li>
+    <li>MQTT integration in web apps.</li>
+    <li>Study and proposal of accessibility improvements in mobile applications.</li>
+    <li>Architectural design of a secure NFC fare collection system on mobile devices with fraud detection and prevention.</li>
+    </ul>
+    </details>
+
 - title: Network & Systems Administrator
   org: CPM Gonzalo Martín Tenllado
   relation: Independent professional, part time
   from: June 2017
   to: present
   description: >
-    I've been responsible for managing de networks and internal systems of this professional conservatory of music.
+    I've been responsible for managing networks and internal systems of this professional conservatory of music.
     Here are some of my duties:
     <ul>
     <li>Installation and management of corporate LANs, WLANs and Directory Systems.</li>
@@ -18,10 +41,10 @@
   from: September 2014
   to: November 2023
   description: >
-    The objective of the degree is technological training and preparation for professional
-    practice in the development and applications of Information and Communication Technologies (ICT). 
-    <br>
-    Theese were the main contents of the agenda:
+    The degree aims to train professionals in the field of ICT engineering.
+    It's focused specially in the middle ground between Telecommunications and IT.
+    <details>
+    <summary><u>Main curriculum topics</u></summary>
     <ol>
     <li>Telecommunication networks and services: architectures, technologies, design, administration and management</li>
     <li>Software engineering and programming: applications, services, microcontrollers and real-time systems</li>
@@ -31,6 +54,7 @@
     <li>Analog and digital electronics: Technologies and design</li>
     <li>Project management and telecommunications regulations</li>
     </ol>
+    </details>
     <br>
     During my studies I participated in numerous volunteer activities and student representation.
     I also developed different projects on my own and in a team. You can find more detailed information in the corresponding site sections.
