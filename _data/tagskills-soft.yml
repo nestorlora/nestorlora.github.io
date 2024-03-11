@@ -7,11 +7,11 @@
 
 - name: Training other people
 
-- name: Power user
+- name: <a href="https://en.wikipedia.org/wiki/Power_user" class="text-white">Power user</a>
   style: fill
   color: success
 
-- name: Prosumer
+- name: <a href="https://en.wikipedia.org/wiki/Prosumer" class="text-white">Prosumer</a>
   style: fill
   color: success
 
