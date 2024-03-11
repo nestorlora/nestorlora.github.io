@@ -1,6 +1,10 @@
 - name: Web (HTML, CSS, Javascript, AJAX)
   style: fill
-  color: info
+  color: primary
+
+- name: Bootstrap
+  style: fill
+  color: secondary
 
 - name: C++
   style: fill
@@ -11,7 +15,7 @@
   color: info
 
 - name: Python
-  style: outline
+  style: fill
   color: info
 
 - name: Java
@@ -19,7 +23,7 @@
   color: info
 
 - name: PHP
-  style: outline
+  style: fill
   color: info
 
 - name: Android SDK
@@ -27,11 +31,12 @@
   color: info
 
 - name: SQL
-  style: outline
+  style: fill
   color: info
 
-- name: POSIX
-  style: fill
+- name: MongoDB
+  style: outline
+  color: dark
 
 - name: Git
   style: fill
@@ -40,6 +45,10 @@
 - name: Docker
   style: fill
   color: primary
+
+- name: PHPRunner
+  style: fill
+  color: dark
 
 - name: Linux
   style: outline
@@ -53,5 +62,6 @@
 - name: JUnit
   style: fill
 
-- name: Openstack
-  style: fill
+- name: Active Directory
+  style: outline
+  color: dark
