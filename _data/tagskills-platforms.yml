@@ -1,37 +1,9 @@
-- name: Web (HTML, CSS, Javascript, AJAX)
-  style: fill
-  color: primary
-
 - name: Bootstrap
   style: fill
   color: secondary
 
-- name: C++
-  style: fill
-  color: info
-
-- name: Node.js
-  style: fill
-  color: info
-
-- name: Python
-  style: fill
-  color: info
-
-- name: Java
-  style: fill
-  color: info
-
-- name: PHP
-  style: fill
-  color: info
-
 - name: Android SDK
   style: outline
-  color: info
-
-- name: SQL
-  style: fill
   color: info
 
 - name: MongoDB

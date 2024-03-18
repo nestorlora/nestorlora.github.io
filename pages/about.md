@@ -20,6 +20,7 @@ I have been able to complete my learning with self-study and occasional freelanc
 
 <div class="row">
 {% include about/tag-skills.liquid title="Communications" source=site.data.tagskills-comms %}
+{% include about/tag-skills.liquid title="Frameworks & Tools" source=site.data.tagskills-platforms %}
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
 </div>
 
