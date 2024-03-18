@@ -27,13 +27,30 @@
 - name: Windows Server
   style: outline
 
+- name: Traefik
+  style: fill
+  color: secondary
+
 - name: Android SDK
   style: outline
   color: info
 
-- name: JUnit
-  style: fill
-
 - name: Active Directory
   style: outline
   color: dark
+
+- name: Penpot
+  style: outline
+
+- name: Adobe Illustrator
+  style: outline
+
+- name: Figma
+  style: outline
+
+- name: JUnit
+  style: fill
+
+- name: OpenAPI
+  style: fill
+  color: info

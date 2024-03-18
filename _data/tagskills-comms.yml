@@ -40,8 +40,8 @@
   style: outline
   color: dark
 
-- name: WebDAV
-  style: fill
+- name: SNMP
+  style: outline
 
 - name: HTTP
   style: fill
@@ -59,6 +59,9 @@
 
 - name: Bluetooth
   style: outline
+
+- name: WebDAV
+  style: fill
 
 - name: Custom TCP/IP protocols
   style: fill
