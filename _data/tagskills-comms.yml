@@ -1,6 +1,6 @@
 - name: Network Engineering
   style: fill
-  color: primary
+  color: danger
 
 - name: LAN
   style: outline
@@ -14,16 +14,6 @@
   style: outline
   color: dark
 
-- name: Mobile networks
-  style: fill
-
-- name: VoIP
-  style: outline
-  color: dark
-
-- name: VPN / IPSec
-  style: fill
-
 - name: IPv6
   style: outline
   color: secondary
@@ -36,29 +26,48 @@
   style: fill
   color: success
 
-- name: SMTP/IMAP
-  style: outline
-  color: dark
+- name: Mobile networks
+  style: fill
+  color: secondary
+
+- name: HTTP
+  style: fill
+  color: warning
+
+- name: REST
+  style: fill
+  color: primary
 
 - name: SNMP
   style: outline
 
-- name: HTTP
-  style: fill
-  color: primary
-
-- name: REST API
+- name: VoIP
   style: outline
   color: dark
+
+- name: SMTP/IMAP
+  style: outline
+  color: dark
+
+- name: Bluetooth
+  style: outline
+
+- name: MQTT
+  style: fill
+  color: secondary
+
+- name: Websockets
+  style: outline
+  color: success
+
+- name: VPN / IPSec
+  style: fill
 
 - name: RFID
   style: fill
 
 - name: NFC
   style: fill
-
-- name: Bluetooth
-  style: outline
 
 - name: WebDAV
   style: fill

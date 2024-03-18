@@ -54,3 +54,11 @@
 - name: OpenAPI
   style: fill
   color: info
+
+- name: Unifi
+  style: outline
+  color: dark
+
+- name: Syslog
+  style: fill
+  color: light
