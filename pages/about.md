@@ -11,14 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:, a Telematics Engineer living in Mála
 
 I love public transportation and the technologies behind the Internet. I'm constantly learning more about them and exploring how they can be leveraged to make an even greater positive impact on society.
 
-<!--
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
--->
-
-### Soft skills
+## Soft skills
 I have been able to complete my learning with self-study and occasional freelance work. I have also participated in student representation and volunteering, which have given me soft skills and great versatility.
 
 <div class="row">
@@ -27,7 +20,7 @@ I have been able to complete my learning with self-study and occasional freelanc
 
 <div class="row">
 {% include about/tag-skills.liquid title="Communications" source=site.data.tagskills-comms %}
-{% include about/tag-skills.liquid title="Platforms" source=site.data.tagskills-platforms %}
+{% include about/skills.html title="Programming" source=site.data.programming-skills %}
 </div>
 
 # My timeline
