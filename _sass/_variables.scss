@@ -11,3 +11,11 @@ $text-black: #343a40;
 $text-white: rgba(white, .9);
 
 $rounded-borders: 15px;
+
+// Custom Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+$font-family: "Inter", sans-serif;
+$font-weight: 500;
+$font-style: normal;
+$font-variation-settings: "slnt" 0;
