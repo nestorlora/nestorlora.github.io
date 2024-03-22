@@ -62,3 +62,7 @@
 - name: Syslog
   style: fill
   color: light
+
+- name: Postman
+  style: outline
+  color: dark
