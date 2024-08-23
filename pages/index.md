@@ -5,6 +5,7 @@ permalink: /
 
 {% include landing.html %}
 
+<!--
 <div class="row justify-content-center align-items-center wow animated slideInUp">
   <div class="col-lg-4 col-md-6 text-center">
     <div class="card shadow">
@@ -16,3 +17,4 @@ permalink: /
     </div>
   </div>
 </div>
+-->
